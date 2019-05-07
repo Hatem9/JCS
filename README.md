@@ -1,2 +1,3 @@
-# JCS
+# Job Candidate System
 Graduation project
+
